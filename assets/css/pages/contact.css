@@ -1,0 +1,14 @@
+﻿
+textarea
+{
+	height: 10em;
+	/*width: 100%;*/
+	/*max-width: 100%;*/
+	 resize: none;
+}
+
+button {
+	margin-right: 30px;
+}
+
+.map { clear: both;}

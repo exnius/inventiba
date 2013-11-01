@@ -1,0 +1,24 @@
+﻿/*FOOTER STYLE*/
+
+footer { background-color: #053954; padding: 15px 0; margin-top: 0em; 
+	border-top: 5px solid #9ECC1E;
+}
+footer *, footer * a {color: #eee;}
+footer a:hover { color: #9ECC1E; }
+.social img { height: 31px; width: 31px; margin: 3em .3em 2em .3em; }
+.social .btn { margin: 3em .3em 2em 0; background-color: #9ECC1E;
+background-image: linear-gradient(to bottom, rgb(158, 204, 30), rgb(123, 171, 42));
+}
+
+.btn:hover, .btn:focus {
+    background-position: 0px 15px;
+    transition: background-position 0.1s linear 0s;
+}
+
+#footer-divider
+{
+	display: none;
+	position: relative;
+	margin-top: -6em;
+	padding-bottom: 2em;
+}

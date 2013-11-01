@@ -1,0 +1,34 @@
+﻿.title
+{
+	text-align: center;
+	margin-top: 2em;
+	font-weight: 800;
+	font-size: 1.8em;
+}
+
+.service-description
+{
+	font-size: 1.12em;
+
+}
+
+hr.hr-1 {
+	width: 80%;
+	margin: 2em auto;
+	 border: 0; height: 1px; 
+	background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(38, 45, 49,0.75), rgba(0,0,0,0));
+	background-image: -moz-linear-gradient(left, rgba(0,0,0,0), rgba(38, 45, 49,0.75), rgba(0,0,0,0));
+	background-image: -ms-linear-gradient(left, rgba(0,0,0,0), rgba(38, 45, 49,0.75), rgba(0,0,0,0)); 
+	background-image: -o-linear-gradient(left, rgba(0,0,0,0), rgba(38, 45, 49,0.75), rgba(0,0,0,0)); 
+}
+
+
+.service-details 
+{
+
+}
+
+.service-image
+{
+	width: 30%;
+}
